@@ -1,21 +1,21 @@
 {
   "name": "discord-presence-roon",
-  "version": "1.3.4",
+  "version": "1.4.0",
   "description": "Discord Presence for Roon.",
-  "homepage": "https://github.com/jtpox/discord-presence-roon",
+  "homepage": "https://github.com/andyrak/discord-presence-roon",
   "main": "src/index.js",
   "bin": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "Jian Ting",
-    "email": "me@jtpox.com",
-    "url": "https://jtpox.com/"
+    "name": "Andy Rakauskas",
+    "email": "ar@arakulo.us",
+    "url": "https://arakulo.us"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jtpox/discord-presence-roon.git"
+    "url": "https://github.com/andyrak/discord-presence-roon.git"
   },
   "license": "MIT",
   "dependencies": {
